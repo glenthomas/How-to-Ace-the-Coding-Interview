@@ -1,2 +1,3 @@
-# How-to-Ace-the-Coding-Interview
-https://blog.glen-thomas.com/software%20engineering/2025/08/12/how-to-ace-the-coding-interview.html
+# How to Ace the Coding Interview
+
+See my [blog post](https://blog.glen-thomas.com/software%20engineering/2025/08/12/how-to-ace-the-coding-interview.html) for a full explanation of this repository.
